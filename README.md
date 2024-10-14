@@ -11,8 +11,23 @@ CrawlData_AAPl-YahooFinance.ipynb
 - tham khảo code tại đây nhé: preprosessing.ipynb
 
 ## Third: cuối cùng tôi trực quan hóa data, đọc tài liệu về tài chính và đưa ra kết luận 
-- tham khảo code tại đây nhé: Viazualization.ipynb
 
+### xem một doanh nghiệp đang làm gì và sử dung số tiền mà nó thu được ?
+![image](https://github.com/user-attachments/assets/4a5877cb-b10e-41bf-83f2-5e1c9588fc7c)
+- Công ty có khả năng tạo ra dòng tiền mạnh mẽ từ hoạt động kinh doanh, thậm chí vượt xa thu nhập ròng. Đây là dấu hiệu cho thấy công ty đang hoạt động rất hiệu quả.
+
+- Dù dòng tiền chảy ra từ hoạt động đầu tư lớn, nhưng điều này có thể là dấu hiệu cho thấy công ty đang đầu tư vào tương lai, mở rộng quy mô và phát triển dài hạn.
+
+- Việc giảm vay nợ qua các hoạt động tài chính cũng là một tín hiệu tốt, cho thấy doanh nghiệp có khả năng tự tài trợ và không phụ thuộc vào vay mượn.
+### các hoạt động đầu tư chính của AAPL trong năm 2023 là gì ?
+![image](https://github.com/user-attachments/assets/4d24576c-629d-445f-911f-f19a67bc65c4)
+- Doanh nghiệp tập trung mạnh vào việc mua lại cổ phiếu, điều này có thể là tín hiệu tích cực về niềm tin của ban lãnh đạo vào giá trị cổ phiếu.
+
+- Chi trả cổ tức cũng khá cao, đảm bảo lợi ích của cổ đông.
+
+- Trả nợ và các hoạt động khác ít được chú trọng trong năm tài chính này
+
+tham khảo code tại đây nhé: Viazualization.ipynb
 ### References:
 https://www.youtube.com/watch?v=mOwnFz7SIGg
 
