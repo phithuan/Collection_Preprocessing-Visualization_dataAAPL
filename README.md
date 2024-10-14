@@ -5,10 +5,10 @@
 ![image](https://github.com/user-attachments/assets/871c8ea0-25fc-46c0-9521-b25492831a0e)
 
 - hoặc có thể dùng code, bạn có thể theo dõi trược tiếp từ phần 
-CrawlData_AAPl-YahooFinance.ipynb
+[CrawlData_AAPl-YahooFinance.ipynb](https://github.com/phithuan/Collection_Preprocessing-Visualization_dataAAPL/blob/main/CrawlData_AAPl-YahooFinance.ipynb)
 
 ## Second: tiền xử lý dữ liệu
-- tham khảo code tại đây nhé: preprosessing.ipynb
+- tham khảo code tại đây nhé: [preprosessing.ipynb](https://github.com/phithuan/Collection_Preprocessing-Visualization_dataAAPL/blob/main/preprosessing.ipynb)
 
 ## Third: cuối cùng tôi trực quan hóa data, đọc tài liệu về tài chính và đưa ra kết luận 
 
@@ -27,7 +27,7 @@ CrawlData_AAPl-YahooFinance.ipynb
 
 - Trả nợ và các hoạt động khác ít được chú trọng trong năm tài chính này
 
-tham khảo code tại đây nhé: Viazualization.ipynb
+tham khảo code tại đây nhé: [Viazualization.ipynb](https://github.com/phithuan/Collection_Preprocessing-Visualization_dataAAPL/blob/main/Viazualization.ipynb)
 ### References:
 https://www.youtube.com/watch?v=mOwnFz7SIGg
 
